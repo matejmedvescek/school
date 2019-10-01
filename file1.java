@@ -4,7 +4,7 @@ public class file1
 		int i = 1;
 		while(i != 4 )
 		{
-		System.out.print("izpis #"+i);
+		System.out.println("izpis #"+i );
 		i++;
 		}
 	}
